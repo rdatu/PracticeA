@@ -1,3 +1,4 @@
 This is a test file
 
-branch master
+Another Edit for branch dev_1.0
+>>>>>>> origin/dev_1.0

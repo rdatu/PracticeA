@@ -1,1 +1,9 @@
 This is a test file
+
+<<<<<<< HEAD
+branch master
+=======
+branch dev_1.0
+
+Another Edit for branch dev_1.0
+>>>>>>> origin/dev_1.0
